@@ -8,4 +8,6 @@ body{
 h1{
     font-size:60px;
     color:#FF0000;
+    padding:50px;
+    background-color:pink;
 }
